@@ -1,11 +1,11 @@
 <?php
 header("location: ./install.php");exit;
 //mysql database address
-define('DB_HOST','localhost');
+define('DB_HOST','int.instance11158.db.xeround.com.:7575');
 //mysql database user
-define('DB_USER','root');
+define('DB_USER','aurora');
 //database password
-define('DB_PASSWD','');
+define('DB_PASSWD','yz6454255');
 //database name
 define('DB_NAME','emlog');
 //database prefix
